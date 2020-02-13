@@ -1,3 +1,3 @@
 # all the images from the image altering app
 
-![GitHub Logo](invert1copy.png)
+![GitHub Logo](Invert1copy.png)
